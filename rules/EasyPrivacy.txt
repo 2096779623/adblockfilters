@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: SUnRMHdSsdCBbWWanTV5pQ
-! Version: 202401300751
+! Checksum: w151MFYuPkvvwzrBYd/xvg
+! Version: 202401310331
 ! Title: EasyPrivacy
-! Last modified: 30 Jan 2024 07:51 UTC
+! Last modified: 31 Jan 2024 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6972,6 +6972,7 @@ omni.soundestlink.com$image
 ||hothydrant.com^
 ||humdrumhat.com^
 ||humdrumhobbies.com^
+||humdrumtouch.com^
 ||hurtgrape.com^
 ||hurtteeth.com^
 ||hypnoticwound.com^
@@ -14590,6 +14591,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||simon.com/46SCNLxs/init.js
 ||skechers.com/dL6GOSf9/init.js
 ||skiphop.com/0F3091f3/init.js
+||skyscanner.*/rf8vapwA/init.js
 ||snipesusa.com/6XNN2xkk/init.js
 ||spirit.com/kp4CLSb5/init.js
 ||ssense.com/58Asv359/init.js

@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
-! Checksum: UKXpmhC4M6gksRN1XsH88Q
-! Version: 202407240801
+! Checksum: icyatmFRXYvTlpZatReJSw
+! Version: 202407241601
 ! Title: EasyList China
-! Last modified: 24 Jul 2024 08:01 UTC
+! Last modified: 24 Jul 2024 16:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://github.com/easylist/easylistchina/
 !
@@ -22,8 +22,11 @@
 -*-*-*-*.panda^$script,third-party
 -1316632262.cos.
 -1316899192.cos.
+-1321533417.cos.
+/k228.oss-
 -1688-wp-media/ads/
 -90mh-gg.
+||yinghua8.*/bar/
 .bid/ads/
 .blog/ads/
 .bt*.com/imgs.js?t=
@@ -1718,6 +1721,12 @@ newduba.cn###jq_youxi
 ||doujs01.shop^
 ||bewr1.com^
 ||heatherssb.com^
+||trafficmanager.net^
+||xs6po.icu^
+||yje912.cn^
+||byretuv.top^
+||68287zubo85737.com^
+||96382zubo66756.com^
 ||yfasjfk.icu^
 ||hetlwsu.top^
 ||1p3yg.icu^
@@ -10159,7 +10168,6 @@ hxsame.hexun.com$domain=~quote.hexun.com
 ||yimg.com/no/$domain=~yahoo.com
 ||yimuhe.com/n_ad/
 ||yingav.net/images/content/spot01.jpg
-||yinghua8.tv/bar/
 ||yinghuavideo.com/bar/
 ||yingshizxw.com/js/tc/
 ||yiparts.com/Chance.php?aid=

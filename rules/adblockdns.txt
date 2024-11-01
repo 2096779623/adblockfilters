@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241101001908
-! Last modified: 2024/11/01 00:19:08
-! Blocked domains: 179096
+! Version: 20241101083135
+! Last modified: 2024/11/01 08:31:35
+! Blocked domains: 179113
 ! unBlocked domains: 66
 !
 ||00dbs.id^
@@ -753,6 +753,7 @@
 ||166f.com^
 ||1675450967.rsc.cdn77.org^
 ||1680660.com^
+||1686385128.rsc.cdn77.org^
 ||cui.m.1688.com^
 ||dcms.1688.com^
 ||dmtracking.1688.com^
@@ -860,6 +861,7 @@
 ||sl.1910genetics.com^
 ||www.sl.1910genetics.com^
 ||19199675.xyz^
+||1937343605.rsc.cdn77.org^
 ||19515bia.de^
 ||tracking.196189.com^
 ||19706903.xyz^
@@ -9488,7 +9490,6 @@
 ||aicactus.io^
 ||aicerta.com^
 ||aichappraisers.com^
-||aichatgptforpc.com^
 ||mktg.aicipc.com^
 ||aickeebsi.com^
 ||aicoding.cfd^
@@ -19525,6 +19526,7 @@
 ||popcashjs.b-cdn.net^
 ||predataclient.b-cdn.net^
 ||propsid.b-cdn.net^
+||psh-static.b-cdn.net^
 ||pub-1kerwcwkwrmjg5ak9zyejlverqmsxjoyjh.b-cdn.net^
 ||sp-wukong-tracker.b-cdn.net^
 ||ss-mndsrv.b-cdn.net^
@@ -35209,6 +35211,7 @@
 ||cf68club.com^
 ||cf68club.net^
 ||cf68vn.com^
+||7b53efdf4e.cf97134c89.com^
 ||marketing.cfa.ca^
 ||smetrics.cfainstitute.org^
 ||cfateu.xyz^
@@ -43148,6 +43151,7 @@
 ||z492.ctinsider.com^
 ||ctiotjobkfu.com^
 ||ctkyom.xyz^
+||ctlacnh.icu^
 ||ctlrarz.xyz^
 ||ctm-media.com^
 ||ctmrso.xyz^
@@ -57544,6 +57548,7 @@
 ||478789.everydayporn.co^
 ||61serve.everydayporn.co^
 ||everydowered.com^
+||a.everymark.xyz^
 ||www.everynewshere.com^
 ||static.everyone.net^
 ||email.mg.everyonesocial.com^
@@ -61448,6 +61453,7 @@
 ||ec7c66fef979e79d2a1b99ea1b9a868c.fjao.pl^
 ||f206b417e95ecbe5ef7cc47314c819fb.fjao.pl^
 ||fjaqxtszakk.com^
+||fjbtkrfay.com^
 ||fjdfqy.com^
 ||fjdiscounts.store^
 ||fywfld.fjellsport.no^
@@ -68851,6 +68857,7 @@
 ||goodwashcompany.com^
 ||goodwashingmachine.com^
 ||app.goodwearmall.com^
+||a.goodweet.xyz^
 ||info.goodwillgr.org^
 ||goody-gold.com^
 ||wcyjcl.goodyear.com^
@@ -69516,6 +69523,7 @@
 ||tracking.graduateschool.edu^
 ||www.training.graduateschool.edu^
 ||go.gradwell.com^
+||graesol.com^
 ||graettingerlaw.com^
 ||grafaman.ru^
 ||satgt.grafana.com^
@@ -71039,6 +71047,7 @@
 ||habutaeirisate.com^
 ||habutchodset.com^
 ||hacdeg.com^
+||haceroberomaste.com^
 ||images.newsletter.hach.com.cn^
 ||asp.hachipp119.com^
 ||hack-and-cheats.com^
@@ -82495,6 +82504,7 @@
 ||marketing.irvingtexas.com^
 ||saber.irwebservice.ir^
 ||irxcm.com^
+||irxybq.com^
 ||kcvwuw.iryouworker.com^
 ||ciezkieczasy.is-best.net^
 ||dsads123a.is-best.net^
@@ -89224,7 +89234,6 @@
 ||kjappzvz.xyz^
 ||kjayru.com^
 ||kjbbc.net^
-||kjcafatfgwpggu.xyz^
 ||kjdsfjisdfjr23.azurewebsites.net^
 ||kjdvn1340-ads.blogspot.com^
 ||wws.atendimento-prime.com.br.kje.us^
@@ -90707,7 +90716,6 @@
 ||kuaizip.com^
 ||app.kuathletics.com^
 ||t.kuathletics.com^
-||kuavzlpzhxs.com^
 ||kubachigugal.com^
 ||kubagoe.xyz^
 ||lesnyraj.kubakosma.pl^
@@ -101954,6 +101962,7 @@
 ||mischief.cfd^
 ||mischiefrealizationbraces.com^
 ||miscreantmoon.com^
+||a.misctool.xyz^
 ||vagolysis.misdoers.site^
 ||eniorcxcaqomm.misecure.com^
 ||niuabtaecu-isncnrjaty.misecure.com^
@@ -107747,9 +107756,12 @@
 ||navi10.com^
 ||navi10.ru^
 ||navi100.com^
+||navi11.ru^
 ||navi12.com^
+||navi15.ru^
 ||navi18.com^
 ||navi2.com^
+||navi20.com^
 ||navi20.ru^
 ||navi21.com^
 ||navi22.com^
@@ -107766,6 +107778,7 @@
 ||navi36.ru^
 ||navi38.ru^
 ||navi40.com^
+||navi42.ru^
 ||navi45.ru^
 ||navi5.com^
 ||navi50.com^
@@ -117756,6 +117769,7 @@
 ||pbxcloudeservices.com^
 ||pbxphonenetwork.com^
 ||ads2.pbxware.ru^
+||pbyfdgnh.com^
 ||pc-ads.com^
 ||pc-agency24.de^
 ||data-c63b992bb9.pc-magazin.de^
@@ -118460,6 +118474,7 @@
 ||perper.ru^
 ||perpetrateabsolute.com^
 ||perpetratejewels.com^
+||perpetraterummage.com^
 ||perpetualcod.com^
 ||perpetualpail.com^
 ||perpost.net^
@@ -130125,6 +130140,7 @@
 ||qfoxgi.com^
 ||1s6.qfxa4n8.ru^
 ||qgexkmi.com^
+||qgmwby.com^
 ||cdn.qgr.ph^
 ||cdn.qgraph.io^
 ||sdk.api.qgraph.io^
@@ -130202,6 +130218,7 @@
 ||qilicaakoa.org^
 ||m.qilungroup.cn^
 ||miniapp.qiluyidian.mobi^
+||black.qimo.ink^
 ||backend.qimtek.se^
 ||www.qinchugudao.com^
 ||1.up.qingdaonews.com^
@@ -131184,6 +131201,7 @@
 ||quizzity.shop^
 ||quizzstar.com^
 ||qujishu.com^
+||qujptcqr.com^
 ||trk.qukqltrk.com^
 ||qulishi.com^
 ||qumagee.com^
@@ -131758,6 +131776,7 @@
 ||ads.raidrush.org^
 ||usenet.raidrush.org^
 ||toplist.raidrush.ws^
+||raiffeisenmining.com^
 ||raihbadanimpian.com^
 ||raiijqfhnshes.com^
 ||raijigrip.com^
@@ -155927,7 +155946,6 @@
 ||track.tigrinhopremiado.com^
 ||tigta.gov^
 ||tihdjd.xyz^
-||tihursoa.net^
 ||tiiepofl.xyz^
 ||apiv2.tiin.vn^
 ||black-valentine-93.tiiny.site^
@@ -163004,7 +163022,6 @@
 ||upstartwings.com^
 ||upstatescnews.com^
 ||upstats.ru^
-||upstrick.com^
 ||upsups.click^
 ||upsworldtracker.com^
 ||uptechnologys.com^
@@ -168551,7 +168568,6 @@
 ||panel.home.pl-477a774b.wabu.pl^
 ||wabusinessdaily.com^
 ||wacaiji.com^
-||wachipho.net^
 ||marketing.wachsws.com^
 ||wacisi.xyz^
 ||metrics.wacken.com^
@@ -174197,6 +174213,7 @@
 ||affil.xgdpr.cz^
 ||xgea.top^
 ||tracker.xgen.dev^
+||xggcyef.icu^
 ||xgihlgcfuu.com^
 ||analytics.xgimi.com^
 ||xgjidt.xyz^
@@ -174589,6 +174606,7 @@
 ||shop.xjtrqq.top^
 ||ndyjs.xjtu.edu.cn^
 ||www.xjwrq.com^
+||xjwzbo.com^
 ||xjyxgy.com^
 ||xkacs5av.xyz^
 ||xkbbjtfp.xyz^
@@ -175731,7 +175749,6 @@
 ||yasir252.com^
 ||yasmeenbronze-finacenter.pages.dev^
 ||yaso.su^
-||yatab.net^
 ||yatr.ru^
 ||yatrk.xyz^
 ||ojmxro.yatsan.com^

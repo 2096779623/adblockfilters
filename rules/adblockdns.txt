@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241104001851
-! Last modified: 2024/11/04 00:18:51
-! Blocked domains: 179386
+! Version: 20241104083028
+! Last modified: 2024/11/04 08:30:28
+! Blocked domains: 179394
 ! unBlocked domains: 62
 !
 ||ojx.04230569.xyz^
@@ -1690,6 +1690,7 @@
 ||2at.site^
 ||2ben92aml.com^
 ||2beon.co.kr^
+||adsby.2bet.co.jp^
 ||2betab.com^
 ||2betesi.com^
 ||a55a75a9fc.2bfb6da60b.com^
@@ -9452,6 +9453,7 @@
 ||ahqovxli.com^
 ||spt.ahram.org.eg^
 ||analytics.ahrefs.com^
+||analytics.ahrefs.dev^
 ||ahscdn.com^
 ||refer.ahsfriends.com^
 ||ahsontechnologies.com^
@@ -58077,6 +58079,7 @@
 ||marketing.execshape.com^
 ||exectechnologies.com^
 ||moz.execulink.net^
+||7ng6v3lu3c.execute-api.us-east-1.amazonaws.com^
 ||9w2zed1szg.execute-api.us-east-1.amazonaws.com^
 ||bin5y4muil.execute-api.us-east-1.amazonaws.com^
 ||executeabattoir.com^
@@ -58710,6 +58713,7 @@
 ||ezoliniawrozby.com^
 ||adg-prox.ezonex.top^
 ||ezralarson.com^
+||ezrcowa.icu^
 ||ezsbhlpchu.com^
 ||ezsportsbetting.com^
 ||ezsportsbettingonline.com^
@@ -70864,6 +70868,7 @@
 ||gungpurre.com^
 ||gunnersgaming.com^
 ||adapi.gunosy.com^
+||ads-delivery.gunosy.com^
 ||assets.gunosy.com^
 ||tr.gunosy.com^
 ||app.gunownersldn.com^
@@ -90334,6 +90339,7 @@
 ||kr-balticpipe-pl-fff2c.firebaseapp.com^
 ||tracking-live.kr3m.com^
 ||www.communications.kra.go.ke^
+||kra18.com^
 ||kraftonevent.com^
 ||krainajednorozca.pl^
 ||swebanalytics.krak.dk^
@@ -164427,6 +164433,7 @@
 ||marketing.uwmedicine.org^
 ||m.uwmoghx.cn^
 ||uwougheels.net^
+||uwsaqoi.icu^
 ||uwselectie.be^
 ||go.uwstout.edu^
 ||tag2.uwv.nl^
@@ -168268,6 +168275,7 @@
 ||vskin.pro^
 ||vsmokhklbw.com^
 ||vsnoon.com^
+||vsojfsoj.com^
 ||go.cm.vsp.com^
 ||go.int.vsp.com^
 ||images.go.vsp.com^

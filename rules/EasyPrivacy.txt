@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: x6X88dkIcLH3dydSEegMnQ
-! Version: 202411160751
+! Checksum: rrf4Ru4YWtgtSOMOzKCQ5w
+! Version: 202411161550
 ! Title: EasyPrivacy
-! Last modified: 16 Nov 2024 07:51 UTC
+! Last modified: 16 Nov 2024 15:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10770,6 +10770,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||log.popin.cc^
 ||log000.goo.ne.jp^
 ||logger.torimochi-ad.net^
+||logs.chatboost-cv.algoage.co.jp^
 ||macromill.com/imp/
 ||mail-count.matsui.co.jp^
 ||metrics.streaks.jp^
@@ -50896,6 +50897,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||static.cloud.coveo.com/coveo.analytics.js/$domain=cabelas.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.knowledgehub.com/global/images/ping.gif?$~third-party
+@@||stats.gleague.nba.com/templates/angular/tables/events/shots.html$~third-party
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.sports.bellmedia.ca^$domain=rds.ca|tsn.ca
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party

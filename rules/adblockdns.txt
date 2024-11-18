@@ -3,9 +3,9 @@
 ! Description: 适用于AdGuard的去广告合并规则，每8个小时更新一次。规则源：1Hosts (Lite)、ADgk、AdGuard Base filter、AdGuard Base filter、AdGuard DNS filter、AdRules DNS List、Hblock、NEO DEV HOST、OISD Basic、1024 hosts、ad-wars hosts、StevenBlack hosts、xinggsf、EasyList、Easylist China、EasyPrivacy、CJX's Annoyance List、SmartTV Blocklist、AWAvenue Ads Rule
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdns.txt
-! Version: 20241118001801
-! Last modified: 2024/11/18 00:18:01
-! Blocked domains: 180100
+! Version: 20241118083117
+! Last modified: 2024/11/18 08:31:17
+! Blocked domains: 180112
 ! unBlocked domains: 62
 !
 ||0-0.fr^
@@ -9854,6 +9854,8 @@
 ||analytics.airtron.com^
 ||smetrics.airtv.net^
 ||airup-bottlegreece.com^
+||airup-fi.com^
+||airup-it.shop^
 ||airup-nederland.com^
 ||airup-romania.com^
 ||airupbelgiums.com^
@@ -50377,6 +50379,7 @@
 ||plconnectpost.dns.army^
 ||refundcustomer.dns.army^
 ||weryfikacjakonta.dns.army^
+||stat.dns.sb^
 ||dns05.com^
 ||pl.busan.dns2.us^
 ||brands.newst.dnsabr.com^
@@ -64507,6 +64510,7 @@
 ||friday89.com^
 ||fridayaffectionately.com^
 ||fridayarched.com^
+||fridaylocalmanager.duckdns.org^
 ||www.fridaymash.com^
 ||fridaypatnod.com^
 ||fridaywake.com^
@@ -76699,6 +76703,8 @@
 ||analytics.htmedia.in^
 ||analytics.dev.htmedia.in^
 ||html-load.cc^
+||cwa.html.zone^
+||umm.html.zone^
 ||cdn.html5maker.com^
 ||htmlads.s3.amazonaws.com^
 ||638ca12d-ba2f-451c-8418-faf56b7de7ff.htmlcomponentservice.com^
@@ -78646,6 +78652,7 @@
 ||ifknittedhurtful.com^
 ||ifleadhad.live^
 ||iflirts.com^
+||iflucav.icu^
 ||api.iflychat.com^
 ||log.iflytek.com^
 ||ifmccdn.icu^
@@ -104454,7 +104461,6 @@
 ||marketinga.modcloth.com^
 ||metric.modcloth.com^
 ||metrics.modcloth.com^
-||moddetail.com^
 ||modechallenges.com^
 ||modechic.site^
 ||modelatos.com^
@@ -107940,6 +107946,7 @@
 ||mx.mywd.com^
 ||news.mywd.com^
 ||pl.mywd.com^
+||myweaithsimple.com^
 ||mywealthpl.org^
 ||cars-taxonomy.mywebartist.eu^
 ||mywebcamstudio.com^
@@ -108852,6 +108859,7 @@
 ||navi23.ru^
 ||navi24.com^
 ||navi24.ru^
+||navi29.com^
 ||navi3.com^
 ||navi32.com^
 ||navi35.ru^
@@ -108869,6 +108877,7 @@
 ||navi6.com^
 ||navi65.com^
 ||navi66.ru^
+||navi70.com^
 ||navi72.com^
 ||navi72.ru^
 ||navi78.ru^
@@ -129867,6 +129876,7 @@
 ||idlqzb.puntoscolombia.com^
 ||pages.mail.puntoscolombia.com^
 ||afaron.punuj.my.id^
+||punyauang.xyz^
 ||punyplant.com^
 ||advert.punyu.com^
 ||pupkeptale.live^
@@ -174287,6 +174297,7 @@
 ||www.widol.wseppond.info^
 ||wgrind.wsepwolf.info^
 ||wsgabiru.com^
+||wsgnihbh.icu^
 ||wsgwc.com^
 ||cdn.wshareit.com^
 ||cdn.bss.wshareit.com^
@@ -178899,6 +178910,7 @@
 ||go.zerotothree.org^
 ||zttemail.zerotothree.org^
 ||go.zerotrackr.com^
+||zerowasteinitiative.com^
 ||zesemen.cz^
 ||zesep.com^
 ||zeshanhaider.com^

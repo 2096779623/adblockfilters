@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: S9aErsf8UJ5Hfhx3TCJkhw
-! Version: 202501230001
+! Checksum: 1O29Y6yGMUCeBAHLqxsG2g
+! Version: 202501230751
 ! Title: EasyPrivacy
-! Last modified: 23 Jan 2025 00:01 UTC
+! Last modified: 23 Jan 2025 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9351,6 +9351,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.channeladvisor.com^
 ||t.clic2buy.com^
 ||t.cometlytrack.com^
+||t.commandbar.com^
 ||t.dgm-au.com^$third-party
 ||t.enuygun.com^
 ||t.fullres.net^
@@ -51121,6 +51122,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ! CNAME (Specific allowlists)
 @@||app.clarity.so^$~third-party
 @@||cbsi.map.fastly.net^
+@@||content.ingbank.pl^
 @@||gva.et-gv.fr^$script,domain=culture.gouv.fr
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com

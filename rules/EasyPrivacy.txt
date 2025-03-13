@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: R+j0xZhU0eS8jCP7skK30A
-! Version: 202503130751
+! Checksum: APh0IbXVG7dT3ZWfOKZhtw
+! Version: 202503131551
 ! Title: EasyPrivacy
-! Last modified: 13 Mar 2025 07:51 UTC
+! Last modified: 13 Mar 2025 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51399,6 +51399,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||f-gear.ec-optimizer.com/img/spacer.gif$image,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/search4.do$script,domain=ec.f-gear.co.jp
 @@||f-gear.ec-optimizer.com/speights/searchresult2fgear.js$script,domain=ec.f-gear.co.jp
+@@||f-tra.com^$script,domain=pokemoncenter-online.com
 @@||gamerch.com/s3-assets/library/js/fingerprint2.min.js?$script,~third-party
 @@||geolocation-db.com/json/$domain=admanager.line.biz
 @@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp

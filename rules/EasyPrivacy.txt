@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: p5P1A2tg9J6l6WegEwvwzA
-! Version: 202504290001
+! Checksum: sley0ubP2Tj2Y7E4RPG4Fg
+! Version: 202504290751
 ! Title: EasyPrivacy
-! Last modified: 29 Apr 2025 00:01 UTC
+! Last modified: 29 Apr 2025 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9186,6 +9186,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||removeads.workers.dev^
 ||replit.app/tap/
 ||replyat.com/gadgetpagecounter.asp?
+||report.23video.com^
 ||reporting-api.gannettinnovation.com^
 ||reporting.cdndex.io^
 ||reporting.singlefeed.com^
@@ -10383,6 +10384,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quiz.stroeermediabrands.de/pub/$image
 ||retrack.q-divisioncdn.de^
 ||retresco.de^*/stats/$third-party
+||rum.mauve.eu^
 ||script.idgentertainment.de/gt.js
 ||serverkompetenz.net/cpx.php?
 ||sheego.de/ar/$third-party
@@ -50731,6 +50733,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||vinted.it/relay/events
 ||virgilio.it/clientinfo.gif?
 ||virgilio.it/js/web-vitals-evnt/tracking.js
+||vistanet.it^*/category_event.js
 ||volkswagen-italia.it^*/tracking/
 ||vvvvid.it^$ping
 ||yachtingnetwork.it/stat/

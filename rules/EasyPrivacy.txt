@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: CNo6ytxxQfaET4WSTNsVgg
-! Version: 202504300011
+! Checksum: VDVtEfwPXtptaAHKo9UzzQ
+! Version: 202504300751
 ! Title: EasyPrivacy
-! Last modified: 30 Apr 2025 00:11 UTC
+! Last modified: 30 Apr 2025 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1179,6 +1179,7 @@
 /if/services/tdg?hs=
 /IIQUniversalID.min.js
 /image.ng/*
+/images/tingyun.js$script
 /iMAWebCookie.js
 /img?eid=
 /imgcount.cgi?
@@ -2396,6 +2397,7 @@
 /tracking/referrer?
 /tracking/thirdpartytag.js
 /tracking/trackpageview
+/tracking/uct?v=
 /tracking/universalJSRequest.php
 /tracking/user_sync_widget?
 /tracking/views/*
@@ -9466,6 +9468,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||surveymonkey.com/resp/api/metrics
 ||surveywall-api.survata.com^$third-party
 ||svc.dynamics.com/f/m/$third-party
+||svc.dynamics.com/t/v/$third-party
 ||svc.dynamics.com/t/w$third-party
 ||svibeacon.onezapp.com^
 ||swarm.video/j79z9kzty.js
@@ -12915,6 +12918,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||termsfeed.com/track/
 ||tgt.maep.ibm.com^
 ||theblock.co/api/analytics
+||thebookseller.com/AfoSiteAnalysis/
 ||theconversation.com/javascripts/lib/content_tracker_hook.js
 ||thedailybeast.com/static/js/thirdparty.
 ||thefreedictionary.com/_/tr.ashx?

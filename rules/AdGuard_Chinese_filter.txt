@@ -1274,6 +1274,9 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+cesu.ai##div[class^="money_"]
+||cesu.ai/uploads/AdvertImages/
+codernav.com##.io-widget-ad-lunbotu
 news.qq.com###content-right div[class][style*='background-image: url("https://inews.gtimg.com/newsapp_bt/']:has(img[alt^="QQ"])
 tw.news.yahoo.com##div[data-google-query-id]
 tw.news.yahoo.com##div[id^="sda-"]
@@ -5242,6 +5245,17 @@ newduba.cn###jq_youxi
 .z.dkt-ib.com
 ||cnzz.trafficmanager.net^
 ||cupfox.app^$third-party
+||a8h4zhbmxi.com^
+||3ryin2uj0x.com^
+||mbg06260pg.com^
+||gdqhim.icu^
+||uoew.cn^
+||anemonew33.top^
+||pnk95mnqww.com^
+||npvcfn.icu^
+||nsvohb.top^
+||mckumf5ii4.com^
+||mbg06261pg.com^
 ||anhj4arn4.com^
 ||eqieg6yn5.com^
 ||u5smvk9bg.com^

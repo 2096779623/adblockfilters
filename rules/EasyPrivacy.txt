@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oOiQrTZdVrL/7tyiRvCLfA
-! Version: 202507140011
+! Checksum: jChdgGjsB9/Oqk2UTu7dhA
+! Version: 202507140751
 ! Title: EasyPrivacy
-! Last modified: 14 Jul 2025 00:11 UTC
+! Last modified: 14 Jul 2025 07:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8270,6 +8270,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||datasign.co/js/opn.js
 ||daxab.com/logger/
 ||dcinfos-cache.abtasty.com^
+||dd.garena.com^
 ||dditscdn.com/*fingerprints
 ||dditscdn.com/?a=
 ||dditscdn.com/log/
@@ -9170,6 +9171,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||paramount.tech/lookup/
 ||parkwhiz.com/events/
 ||parsely.com/keys/$script,third-party
+||partner.awscconsumerinfo.autotrader.com/accdab/beacon/
 ||partners.etoro.com^$script
 ||patreon.com/api/tracking
 ||payments-amazon.com^*/analytics.js
@@ -51784,6 +51786,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||piccy.org.ua/c?
 ||remp.nv.ua^
 ||sport.ua/pixel/
+||stats.itc.ua^
 ||target.ukr.net^
 ! Vietnamese
 ||analytics.aita.gov.vn^

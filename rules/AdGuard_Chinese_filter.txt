@@ -1257,6 +1257,8 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+macromicro.me#%#//scriptlet('abort-current-inline-script', '$', '/deposit-bonus?platform=26&utm_source=')
+macromicro.me#%#//scriptlet('abort-current-inline-script', '$', 'mmPopup() {')
 ||mumu*.com/js/cdn.js$~third-party
 ||mumu*.com/js/html*.js$script,~third-party
 *$denyallow=123dua.com,domain=123dua.com,script,xmlhttprequest
@@ -5308,6 +5310,9 @@ newduba.cn###jq_youxi
 ||joi09110pt.com^
 ||eaylmi.icu^
 ||trigminp.com^
+||vsct.cn^
+||y63eay93i.com^
+||q2fwgl4q8.com^
 ||bpuvuun0xg.com^
 ||hnsgpw.com^
 ||nmulwz.cn^

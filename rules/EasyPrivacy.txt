@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: dgCRnNhBt7lIFQ3GEg7hfA
-! Version: 202509260741
+! Checksum: kLIe0+AYZQzxKuV9Ya0ykA
+! Version: 202509261551
 ! Title: EasyPrivacy
-! Last modified: 26 Sep 2025 07:41 UTC
+! Last modified: 26 Sep 2025 15:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2120,7 +2120,7 @@
 /smetrics.*/b/ss/*
 /smetrics.*/id?
 /smg_tracking/js/onthe.io.js
-/Smile_ElasticsuiteTracker/*$script
+/Smile_ElasticsuiteTracker/js/tracking.min.js
 /smmch-mine.js
 /smmch-own.js
 /snowman.gif?p=
@@ -7878,6 +7878,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.ipgeolocation.io/getip
 ||api.iris.tv/update
 ||api.june.so^
+||api.mambasms.com/monitorEvent/
 ||api.picox.bendingspoons.com/v1/events
 ||api.sardine.ai/assets/loader.min.js$third-party
 ||api.visitorapi.com^$third-party
@@ -12103,6 +12104,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.takealot.com^$ping
 ||api.tsc.ca/Tracking/v1/events/
 ||api.vk.com/method/statEvents.
+||aplus.qwen.ai/aplus.monitor.log_arrival_rate
 ||app-bnkr.b-cdn.net/js/lv.js
 ||app.box.com/app-api/split-proxy/api/metrics
 ||app.box.com/gen204
@@ -52995,6 +52997,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 !---------- Polish ----------
 !
 @@||gemius.pl/gstream.js
+@@||gildia.pl/static/*/Smile_ElasticsuiteTracker/js/tracking.min.js$~third-party
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.interia.pl/iwa_core$script,~third-party
 @@||iwa.iplsc.com/iwa.js$script

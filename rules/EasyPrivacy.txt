@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: YF6yQulh+tgh8CJuJefR/g
-! Version: 202601261551
+! Checksum: N5pmzYmKa6Fv4Wp6ZMUAAQ
+! Version: 202601270011
 ! Title: EasyPrivacy
-! Last modified: 26 Jan 2026 15:51 UTC
+! Last modified: 27 Jan 2026 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3811,7 +3811,6 @@ omni.soundestlink.com$image
 ||ugdturner.com^
 ||uidapi.com^
 ||uimarketpro.com^
-||unidays.world^
 ||uqd.io^
 ||usrpubtrk.com^
 ||ustat.info^
@@ -6146,6 +6145,7 @@ omni.soundestlink.com$image
 ||umami.is^$third-party
 ||umbel.com^$third-party
 ||unalytics.top^$third-party
+||unidays.world^$third-party,domain=~myunidays.com
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
 ||unusual.ai^$third-party

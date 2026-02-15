@@ -1277,6 +1277,16 @@ $script,xmlhttprequest,third-party,domain=00ksw.com|01zww.com|0biquge.com|114zw.
 !
 ! NOTE: Specific rules
 !
+ippure.com##.ippure-ads
+xchina001.online##.z2-slot
+xchina001.online##.z3-root
+xchina001.online##.z1-strip
+xchina001.online###core-zone-4
+xchina001.online###z-extra-2
+xchina001.online###z-extra-3
+xchina001.online##.z-gate-mask
+||xchina.io/$media,domain=xchina001.online
+crxs.me##div[id^="z-extra-"]
 businessinsider.tw##div[data-name^="bitw_"]
 lupanda.tw##.blogimove-inline-css-0
 news.ebc.net.tw##.inline_box
@@ -5535,6 +5545,7 @@ newduba.cn###jq_youxi
 ||overboard27.com^
 ||curthkivew.com^
 ||ziwl05nrf1.com^
+||0yjeii25x4.com^
 ||nws5ay4cr2.com^
 ||sxzl6x4k9p.com^
 ||multiple46.top^
